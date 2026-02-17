@@ -17,7 +17,7 @@ const App = () => {
         <Toaster />
         <Sonner />
         <Loader />
-        <BrowserRouter>
+        <BrowserRouter basename="/vivekvernekar_portfolio">
           <Routes>
             <Route path="/" element={<Index />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
