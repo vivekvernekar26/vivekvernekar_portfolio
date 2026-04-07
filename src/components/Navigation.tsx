@@ -70,8 +70,8 @@ const Navigation = () => {
 
             <div className="ml-4 pl-4 border-l border-white/10">
               <a
-                href="/Vivek_Vernekar_Resume.pdf"
-                download="Vivek_Vernekar_Resume.pdf"
+                href="vivek.pdf"
+                download="vivek.pdf"
                 className="px-6 py-2.5 bg-primary/10 border border-primary/50 text-white hover:bg-primary/20 transition-all flex items-center gap-2 text-sm"
               >
                 <Terminal className="w-4 h-4" />
@@ -108,8 +108,8 @@ const Navigation = () => {
               ))}
               <div className="pt-4 mt-2 border-t border-white/5">
                 <a
-                  href="/Vivek_Vernekar_Resume.pdf"
-                  download="Vivek_Vernekar_Resume.pdf"
+                  href="vivek.pdf"
+                  download="vivek.pdf"
                   className="block w-full py-3 bg-primary/10 border border-primary/50 text-white text-center font-bold hover:bg-primary/20 transition-all rounded-sm"
                 >
                   Download Resume
